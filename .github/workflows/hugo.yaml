@@ -45,6 +45,10 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Install required packages
+        run: npm install
+      - name: Use PostCSS with Hugo build
+        run: npm i -g postcss-cli
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
