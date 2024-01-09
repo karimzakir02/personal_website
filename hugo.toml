@@ -18,7 +18,7 @@ theme = 'digitalgarden'
   weight = 3
 [[menu.main]]
   name = 'Life & Hobbies'
-  url = 'life'
+  url = '/life'
   weight = 4
 
 [[menu.social]]
