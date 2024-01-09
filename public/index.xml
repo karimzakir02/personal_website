@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Karim&#39;s Website</title>
-    <link>https://karimzakir02.github.io/</link>
+    <link>https://karimzakir02.github.io/personal_website/</link>
     <description>Recent content in Homepage on Karim&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jan 2024 14:46:17 -0500</lastBuildDate><atom:link href="https://karimzakir02.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jan 2024 14:46:17 -0500</lastBuildDate><atom:link href="https://karimzakir02.github.io/personal_website/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
