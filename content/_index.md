@@ -14,3 +14,7 @@ I am not quite sure yet what is going to be here. I am planning to publish some 
 
 If you have any suggestions or any comments about my future articles, please email me at zakirkarim02 AT gmail DOT com. Thank you!
 
+---
+
+Starter links:
+- [My CV](cv.pdf) - updated January 2024
