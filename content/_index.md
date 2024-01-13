@@ -18,4 +18,4 @@ If you have any suggestions or any comments about my future articles, please ema
 
 Starter links:
 - [My CV](cv.pdf) - updated January 2024
-- [Why and How I made this website](projects/personal-website)
+- [Why and how I made this website](projects/personal-website)
