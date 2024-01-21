@@ -6,13 +6,15 @@ draft: false
 
 ## Hi!
 
-**Welcome to my personal website**
+My name is Karim Zakir. Welcome to my personal website!
 
-My name is Karim Zakir. I am currently a 4th year student at the University of Toronto, majoring in data science. 
+#### About Me
 
-I am not quite sure yet what is going to be here. I am planning to publish some articles discussing my personal projects, as well as post about hobbies I do outside of work/school!
+I am a 4th year student at the University of Toronto, majoring in data science. Upon graduation, I intend to work as a software engineering analyst for [Goldman Sachs](https://www.goldmansachs.com/) and their privacy platforms team!
 
-If you have any suggestions or any comments about my future articles, please email me at zakirkarim02 AT gmail DOT com. Thank you!
+I discovered my love for computer science in high school, when working on a course project for a VC fund in Abu Dhabi. Since then, I have worked in different roles, including software engineering and data science. I've felt comfortable in both the positions, but I am at my best when working somewhere in the intersection of the two. I love what I do, and I hope to share some of that love here with you!
+
+If you have any suggestions or any comments about my articles, please email me at zakirkarim02 AT gmail DOT com. Thank you!
 
 ---
 
